@@ -35,7 +35,7 @@ export class Delivery {
 
       return result.data;
     } catch (error) {
-      errorHandler.handleApi(error.message);
+      errorHandler.handleApi(error);
       return null;
     }
   }
@@ -89,7 +89,7 @@ export class Delivery {
 
       return result.data;
     } catch (error) {
-      errorHandler.handleApi(error.message);
+      errorHandler.handleApi(error);
       return null;
     }
   }
@@ -115,7 +115,7 @@ export class Delivery {
 
       return result.data;
     } catch (error) {
-      errorHandler.handleApi(error.message);
+      errorHandler.handleApi(error);
       return null;
     }
   }
@@ -158,7 +158,7 @@ export class Delivery {
 
       return result.data;
     } catch (error) {
-      errorHandler.handleApi(error.message);
+      errorHandler.handleApi(error);
       return null;
     }
   }
@@ -179,7 +179,7 @@ export class Delivery {
 
       return result.data;
     } catch (error) {
-      errorHandler.handleApi(error.message);
+      errorHandler.handleApi(error);
       return null;
     }
   }
