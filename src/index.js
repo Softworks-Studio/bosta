@@ -1,3 +1,3 @@
-import { Bosta } from "./bosta.js";
+import { Bosta } from "./bosta/index.js";
 
 export default Bosta;
