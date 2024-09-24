@@ -1,8 +1,8 @@
 # 📦 Bosta Delivery API
 
 [![npm version](https://img.shields.io/npm/v/bosta-softworks)](https://www.npmjs.com/package/bosta-softworks)
-[![License]](LICENSE)
-[![Issues]](https://github.com/Softworks-Studio/bosta/issues)
+[License](LICENSE)
+[Issues](https://github.com/Softworks-Studio/bosta/issues)
 ss integration and interaction with Bosta's delivery services.
 
 ---
@@ -143,7 +143,6 @@ bostaClient.delivery
 ```javascript
 const trackingNumber = "1234567890";
 const updatedData = {
-  state: "in_transit",
   notes: "Updated notes",
 };
 
