@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Softworks-Studio/bosta-node.git"
+    "url": "git+https://github.com/Softworks-Studio/bosta.git"
   },
   "keywords": [
     "bosta",
@@ -22,9 +22,9 @@
   "author": "Softworks Studio",
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/Softworks-Studio/bosta-node/issues"
+    "url": "https://github.com/Softworks-Studio/bosta/issues"
   },
-  "homepage": "https://github.com/Softworks-Studio/bosta-node#readme",
+  "homepage": "https://github.com/Softworks-Studio/bosta#readme",
   "dependencies": {
     "axios": "^1.7.7",
     "chalk": "^5.3.0"
