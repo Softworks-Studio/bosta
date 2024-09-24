@@ -1,8 +1,8 @@
 # 📦 Bosta Delivery API
 
-[![npm version](https://img.shields.io/npm/v/bosta)](https://www.npmjs.com/package/bosta)
-[![License](https://github.com/Softworks-Studio/bosta/blob/main/LICENSE)](LICENSE)
-[![Issues](https://github.com/Softworks-Studio/bosta/issues)](https://github.com/your-repo/bosta/issues)
+[![npm version](https://img.shields.io/npm/v/bosta-softworks)](https://www.npmjs.com/package/bosta-softworks)
+[![License](https://github.com/Softworks-Studio/bosta-softworks/blob/main/LICENSE)](LICENSE)
+[![Issues](https://github.com/Softworks-Studio/bosta-softworks/issues)](https://github.com/your-repo/bosta-softworks/issues)
 
 A comprehensive wrapper for the Bosta API, enabling seamless integration and interaction with Bosta's delivery services.
 
@@ -22,7 +22,7 @@ To use this package, ensure you have the following:
 You can install the Bosta Delivery API wrapper with npm:
 
 ```bash
-npm install bosta
+npm install bosta-softworks
 ```
 
 ## 📚 Documentation
@@ -32,7 +32,7 @@ npm install bosta
 #### Initialization
 
 ```javascript
-import { Bosta } from "bosta";
+import { Bosta } from "bosta-softworks";
 
 const apiKey = "your-api-key";
 const baseUrl = "https://app.bosta.co/api/v2"; // Optional, defaults to Bosta's API URL
@@ -177,8 +177,8 @@ The Bosta API client uses an `ErrorHandler` class to log and handle errors. You 
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](https://github.com/Softworks-Studio/bosta/blob/main/LICENSE) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/Softworks-Studio/bosta-softworks/blob/main/LICENSE) file for details.
 
 ## 📞 Support
 
-For support, open an issue on the [GitHub repository](https://github.com/Softworks-Studio/bosta/issues).
+For support, open an issue on the [GitHub repository](https://github.com/Softworks-Studio/bosta-softworks/issues).
