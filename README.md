@@ -1,10 +1,9 @@
 # 📦 Bosta Delivery API
 
 [![npm version](https://img.shields.io/npm/v/bosta-softworks)](https://www.npmjs.com/package/bosta-softworks)
-[![License](https://github.com/Softworks-Studio/bosta-softworks/blob/main/LICENSE)](LICENSE)
-[![Issues](https://github.com/Softworks-Studio/bosta-softworks/issues)](https://github.com/your-repo/bosta-softworks/issues)
-
-A comprehensive wrapper for the Bosta API, enabling seamless integration and interaction with Bosta's delivery services.
+[![License](https://github.com/Softworks-Studio/bosta/blob/main/LICENSE)](LICENSE)
+[![Issues](https://github.com/Softworks-Studio/bosta/issues)](https://github.com/Softworks-Studio/bosta/issues)
+ss integration and interaction with Bosta's delivery services.
 
 ---
 
